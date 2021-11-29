@@ -2,4 +2,4 @@
 
 Technologies used:
 HTML, CSS, React.js
-
+Figma (for Design)
